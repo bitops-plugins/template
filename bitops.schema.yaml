@@ -1,0 +1,16 @@
+plugin-name:
+  type: object
+  properties:
+    cli:
+      type: object
+      properties:
+        stack-action:
+          type: string
+          
+    options:
+      type: object
+      properties:
+        workspace:
+          type: string
+          export_env: PLUGIN_WORKSPACE
+        
