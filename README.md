@@ -1,4 +1,6 @@
 # Plugin template
+Check out the BitOps [documentation](https://bitovi.github.io/bitops/) for more information! 
+
 ## README.md
 Documents how to use the plugin. 
 
@@ -17,5 +19,3 @@ Defines how the plugin is used to invoke the underlying tool
 
 ## install file
 Installs the plugin and any additional needed packages
-
-Check out the BitOps [documentation](https://bitovi.github.io/bitops/) for more information! 
